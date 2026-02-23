@@ -80,4 +80,11 @@ test/
 
 Open this repository in VS Code with the [Dev Containers extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) for a pre-configured development environment.
 
+### Dev Container setup
+
+```bash
+pipx install uv
+uv sync
+uv run pytest
+```
 
