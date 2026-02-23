@@ -5,10 +5,15 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
-    "pytest>=9.0.2",
-    "nbmake>=1.5.5",
+    "numpy>=2.2.6",
 ]
 
 [tool.pytest.ini_options]
 testpaths = ["tests/"]
 addopts = "--nbmake"
+
+[dependency-groups]
+dev = [
+    "nbmake>=1.5.5",
+    "pytest>=9.0.2",
+]
