@@ -1,2 +1,3 @@
 title: My Project Documentation
 description: A site built with Jekyll
+remote_theme: jekyll/minima
