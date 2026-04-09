@@ -50,6 +50,7 @@
 - [Merlin Mann Wisdom](https://github.com/merlinmann/wisdom/blob/master/wisdom.md)
 - [The 12 Factor App](12factor.net)
 - [Sebastian Raschka](https://sebastianraschka.com/)
+- [Deep learning](https://neuralnetworksanddeeplearning.com/)
 
 ## YouTube Channels
 
